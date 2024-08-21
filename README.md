@@ -12,9 +12,13 @@ This project features an automated system designed to sort cylinders by color us
 
 ![view abb](https://github.com/user-attachments/assets/0fe62bc6-b508-4667-a043-3ef34c343177)
 --- |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 
-##Contact 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+
+## Contact 
 chaimaghouili691@gmail.com
 
 ##  Getting Started   
