@@ -15,9 +15,9 @@ This project features an automated system designed to sort cylinders by color us
 
 ## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-
+| Required Software             | Download Here         |
+| ABB RobotStudio| https://new.abb.com/products/robotics/robotstudio/downloads |
+|Python|https://www.python.org/downloads/|
 ## Contact 
 chaimaghouili691@gmail.com
 
