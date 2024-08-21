@@ -12,6 +12,8 @@ This project features an automated system designed to sort cylinders by color us
 
 ![view abb](https://github.com/user-attachments/assets/0fe62bc6-b508-4667-a043-3ef34c343177)
 --- |
+![cam](https://github.com/user-attachments/assets/5b830164-8f47-48f5-953f-32d696c220c7)
+
 ![2](https://github.com/user-attachments/assets/0b16ca49-a6c6-4f4c-811a-3e929c713eb9)
 ![3](https://github.com/user-attachments/assets/cba856bc-9f62-4b28-8c82-fa5ddc252868)
 ![4](https://github.com/user-attachments/assets/c118ff37-5a3c-47a5-bd54-78fcd45d48db)
