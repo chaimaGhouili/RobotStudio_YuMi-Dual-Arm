@@ -27,8 +27,8 @@ This project features an automated system designed to sort cylinders by color us
 
 | Required Software    | Download Here                                             |
 |----------------------|------------------------------------------------------------|
-| ABB RobotStudio      | [Download Here](https://new.abb.com/products/robotics/robotstudio/downloads) |
-| Python               | [Get Python](https://www.python.org/downloads/)           |
+| ABB RobotStudio      | (https://new.abb.com/products/robotics/robotstudio/downloads) |
+| Python               | (https://www.python.org/downloads/)           |
 
 ## Contact 
 chaimaghouili691@gmail.com
