@@ -12,10 +12,11 @@ This project features an automated system designed to sort cylinders by color us
 
 ![view abb](https://github.com/user-attachments/assets/0fe62bc6-b508-4667-a043-3ef34c343177)
 --- |
-![view abb](C:\Users\chaima\Desktop\2.png)
-![view abb](C:\Users\chaima\Desktop\3.png)
-![view abb](C:\Users\chaima\Desktop\4.png)
-![view abb](C:\Users\chaima\Desktop\5.png)
+![2](https://github.com/user-attachments/assets/0b16ca49-a6c6-4f4c-811a-3e929c713eb9)
+![3](https://github.com/user-attachments/assets/cba856bc-9f62-4b28-8c82-fa5ddc252868)
+![4](https://github.com/user-attachments/assets/c118ff37-5a3c-47a5-bd54-78fcd45d48db)
+![5](https://github.com/user-attachments/assets/bdb235b6-97bc-4482-80de-c8cbbeda3e17)
+![6](https://github.com/user-attachments/assets/a5e25a29-2ddd-4b79-a1b5-f9bd03e6fd3d)
 
 ![view abb](C:\Users\chaima\Desktop\view abb.png)
 
