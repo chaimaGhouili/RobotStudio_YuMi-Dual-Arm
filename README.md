@@ -10,7 +10,7 @@ This project features an automated system designed to sort cylinders by color us
 ## Executing the Program
 
 
-[App Screenshot](C:\Users\chaima\Desktop\view abb.png) 
+![view abb](https://github.com/user-attachments/assets/0fe62bc6-b508-4667-a043-3ef34c343177)
 
 
 ##  Getting Started   
